@@ -1,8 +1,8 @@
 class GitGtr < Formula
   desc "Git worktree manager with editor and AI tool integration"
   homepage "https://github.com/coderabbitai/git-worktree-runner"
-  url "https://github.com/coderabbitai/git-worktree-runner/archive/refs/tags/v2.3.0.tar.gz"
-  sha256 "6fa0efb36b899c2128fe7569067bc2b6114d7788f5c72867fbbc08a3478d7025"
+  url "https://github.com/coderabbitai/git-worktree-runner/archive/refs/tags/v2.3.1.tar.gz"
+  sha256 "59bbb7136d8177bc4a88c55169cd113d4ac57dd87f5c67f43cde60c9a059ba2d"
   license "Apache-2.0"
 
   depends_on "git"
